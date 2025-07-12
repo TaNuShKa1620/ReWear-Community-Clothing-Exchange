@@ -175,6 +175,8 @@ image:-
 
 **ReWear** is a community clothing exchange platform where users can list, browse, and swap unused clothes through direct exchanges or a point-based system. It promotes sustainable fashion by reducing textile waste and encouraging reuse. Users can manage profiles, add items, and request swaps, while admins oversee content and user activity.
 
+video link-https://drive.google.com/file/d/1IeuO2k3bjkbGkox-QxxfX88ySxlydTjK/view?usp=drive_link
+
 Tanushka Tomar-tanushkat2005@gmail.com
 Mahek Gupta-eshueshu22gupta@gmail.com
 Satya Mishra-satyamishra0611@gmail.com
