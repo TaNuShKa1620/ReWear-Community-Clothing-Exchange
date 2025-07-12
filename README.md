@@ -57,6 +57,18 @@ Links: Update placeholder URLs (/dashboard, /register, #) to point to actual rou
 - 📱 **Responsive UI** – Smooth layout across all devices
 - 🔐 **Login & Register** – Secure user management
 - 📦 **Featured Items** – Curated collection from the community
+  
+ Technology Stack 
+ 
+| **Category**      | **Technology**                         | **Purpose**                                                              |
+| ----------------- | -------------------------------------- | ------------------------------------------------------------------------ |
+| 🌐 Front-End      | HTML5, CSS3                            | Core structure and styling of the application                            |
+| 🎨 UI Styling     | Custom CSS (Tailwind-inspired)         | Responsive layouts, gradients, and glassmorphism design                  |
+| ⚙️ Interactivity  | JavaScript (Vanilla)                   | Handles form validation, password toggle, and alert messages             |
+| 🧩 Icons          | Lucide Icons (via CDN)                 | Modern, lightweight icon set for UI clarity                              |
+| 🖼 UI Prototyping | Figma *(optional)*                     | For creating wireframes and design mockups                               |
+| 📦 File Hosting   | GitHub Pages / Local browser           | Project runs directly in a browser with no backend needed                |
+| 🚀 Future Scope   | Backend API (Node.js / Firebase, etc.) | For authentication, data storage, and swap transactions *(future-ready)* |
 
 Notes
 
