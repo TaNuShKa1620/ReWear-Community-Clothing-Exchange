@@ -107,11 +107,11 @@ The design is optimized for modern browsers (Chrome, Firefox, Safari, Edge).
 image:-
 ![WhatsApp Image 2025-07-12 at 14 16 04_7e807b09](https://github.com/user-attachments/assets/a62270aa-1323-4d89-8a7b-81d0082dc508)
 <img width="995" height="934" alt="image" src="https://github.com/user-attachments/assets/b45dd1ff-d91a-4a3a-aab2-542c4fafe769" />
-<img width="1863" height="893" alt="image" src="https://github.com/user-attachments/assets/155de9ca-5194-4cd5-8f2c-a53c638615b5" />
 ![WhatsApp Image 2025-07-12 at 15 40 47_ad72dd39](https://github.com/user-attachments/assets/e6e16f90-044e-444c-aaa6-47e9044f9d30)
 ![WhatsApp Image 2025-07-12 at 15 42 17_f9cf8bc7](https://github.com/user-attachments/assets/34460919-5eea-40fa-8428-4ae214fbb378)
 ![WhatsApp Image 2025-07-12 at 15 43 08_0be464bc](https://github.com/user-attachments/assets/de8b087b-e710-4356-b9ad-705483ad854a)
 ![WhatsApp Image 2025-07-12 at 15 46 27_05bf5662](https://github.com/user-attachments/assets/f31dc86f-70a5-43e7-bd87-7d7dbbc64dd5)
+<img width="1863" height="893" alt="image" src="https://github.com/user-attachments/assets/20acdec0-ce94-4ff3-8ab8-874d5add8633" />
 <img width="1280" height="653" alt="image" src="https://github.com/user-attachments/assets/02553c81-eda5-4e87-a137-d5da2a70bd25" />
 <img width="1280" height="628" alt="image" src="https://github.com/user-attachments/assets/23af8a31-11c4-4b06-92f3-521b2057cd52" />
 <img width="1280" height="665" alt="image" src="https://github.com/user-attachments/assets/aec98ab7-6687-4f2d-93a4-e8bc7637c2d0" />
