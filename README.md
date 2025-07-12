@@ -14,15 +14,15 @@ Alert Feedback: Displays success or error messages using alerts (replacing toast
 File Structure
 
 
-├── index.html # Login page
-├── signup.html # User registration page
-├── landingpage.html # Main landing/home page
-├── listitem.html # Page for users to list their clothing items
-├── assets/ # External JS, CSS files linked via Lovable or Vite
-├── styles/ # (Optional) Custom styles folder
-├── images/ # Hosted or CDN image assets
-└── README.md # Project documentation (this file)
-
+├── index.html            # Login page
+├── signup.html           # User registration page
+├── landingpage.html      # Main landing/home page
+├── listitem.html         # Page for users to list their clothing items
+├── browser.html          # Page to browse and filter listed clothing items
+├── assets/               # External JS, CSS files (from Lovable/Vite)
+├── styles/               # (Optional) Custom CSS stylesheets
+├── images/               # Hosted or CDN image assets
+└── README.md             # Project documentation (this file)
 Setup Instructions
 
 Clone or Download: Obtain the index.html file.
@@ -77,6 +77,7 @@ The design is optimized for modern browsers (Chrome, Firefox, Safari, Edge).
 image:-
 ![WhatsApp Image 2025-07-12 at 14 16 04_7e807b09](https://github.com/user-attachments/assets/a62270aa-1323-4d89-8a7b-81d0082dc508)
 <img width="995" height="934" alt="image" src="https://github.com/user-attachments/assets/b45dd1ff-d91a-4a3a-aab2-542c4fafe769" />
+<img width="1863" height="893" alt="image" src="https://github.com/user-attachments/assets/155de9ca-5194-4cd5-8f2c-a53c638615b5" />
 ![WhatsApp Image 2025-07-12 at 15 40 47_ad72dd39](https://github.com/user-attachments/assets/e6e16f90-044e-444c-aaa6-47e9044f9d30)
 ![WhatsApp Image 2025-07-12 at 15 42 17_f9cf8bc7](https://github.com/user-attachments/assets/34460919-5eea-40fa-8428-4ae214fbb378)
 ![WhatsApp Image 2025-07-12 at 15 43 08_0be464bc](https://github.com/user-attachments/assets/de8b087b-e710-4356-b9ad-705483ad854a)
