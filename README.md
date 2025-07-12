@@ -1,7 +1,12 @@
 # ReWear-Community-Clothing-Exchange
 ReWear Login Page
 Overview
-This project contains a simple login page for the ReWear application, a platform focused on sustainable fashion. The page is built using pure HTML and CSS, with minimal JavaScript for form handling and password visibility toggling. It replicates the design and functionality of a React/TSX-based login component, styled with Tailwind CSS-inspired aesthetics.
+ReWear is a web-based platform designed to promote sustainable fashion by allowing users to exchange unused clothing items. The platform encourages people to reuse wearable garments rather than discard them, reducing textile waste and environmental impact.
+
+It operates on a dual-swap model—users can engage in direct swaps or use a point-based system to redeem clothing from the community. Each user has a personalized dashboard that shows stats like points, swaps, badges, and listed items. The platform is styled with a modern, eco-friendly design language using gradients, glassmorphism, and a responsive layout.
+
+ReWear blends social responsibility, technology, and gamification, creating a seamless user experience with built-in badges, profile ratings, and a vibrant swapping community. Although the current version is front-end focused, it is structured to easily scale with backend integration for real-world deployment.
+
 Features
 
 Responsive Design: Adapts to various screen sizes with a centered layout.
