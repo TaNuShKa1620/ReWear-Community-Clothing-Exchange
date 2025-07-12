@@ -170,6 +170,8 @@ image:-
 | `images/`                          | Folder        | Static assets like logo, profile icons, and item photos                  |
 | `README.md`                        | Markdown File | Full documentation of the project, features, setup, and usage            |
 | `ReWear_Project_Documentation.pdf` | PDF File      | Exported formatted version of README for submissions or offline sharing  |
+| config.py                           | Python        |                                                                          |
+|App.py                               | Python | using Flask for your ReWear – Community Clothing Exchange backend.                
 
 **ReWear** is a community clothing exchange platform where users can list, browse, and swap unused clothes through direct exchanges or a point-based system. It promotes sustainable fashion by reducing textile waste and encouraging reuse. Users can manage profiles, add items, and request swaps, while admins oversee content and user activity.
 
