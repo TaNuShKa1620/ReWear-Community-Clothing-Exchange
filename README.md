@@ -14,6 +14,11 @@ Alert Feedback: Displays success or error messages using alerts (replacing toast
 File Structure
 
 index.html: The main HTML file containing the login page structure, styles, and JavaScript logic.
+├── landingpage.html # Main frontend HTML page
+├── assets/ # (linked externally via Lovable)
+├── styles/ # CSS via external links
+├── images/ # CDN-hosted preview images
+└── README.md # You're here!
 
 Setup Instructions
 
@@ -39,6 +44,16 @@ Styling: Modify the <style> section in index.html to adjust colors, fonts, or la
 Icons: Replace Lucide icons by updating the CDN or using a different icon library.
 Form Handling: Update the JavaScript in the <script> section to integrate with a backend API for actual authentication.
 Links: Update placeholder URLs (/dashboard, /register, #) to point to actual routes.
+
+
+ Key Features
+
+- 🌱 **Eco-Friendly Swaps** – Exchange pre-loved clothes easily
+- 🎯 **Point-Based System** – Earn points for items and redeem fashion pieces
+- 👥 **Community Powered** – Built for fashion-conscious users
+- 📱 **Responsive UI** – Smooth layout across all devices
+- 🔐 **Login & Register** – Secure user management
+- 📦 **Featured Items** – Curated collection from the community
 
 Notes
 
