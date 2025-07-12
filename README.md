@@ -70,6 +70,8 @@ image:-
 ![WhatsApp Image 2025-07-12 at 15 42 17_f9cf8bc7](https://github.com/user-attachments/assets/34460919-5eea-40fa-8428-4ae214fbb378)
 ![WhatsApp Image 2025-07-12 at 15 43 08_0be464bc](https://github.com/user-attachments/assets/de8b087b-e710-4356-b9ad-705483ad854a)
 ![WhatsApp Image 2025-07-12 at 15 46 27_05bf5662](https://github.com/user-attachments/assets/f31dc86f-70a5-43e7-bd87-7d7dbbc64dd5)
+<img width="1280" height="653" alt="image" src="https://github.com/user-attachments/assets/02553c81-eda5-4e87-a137-d5da2a70bd25" />
+<img width="1280" height="628" alt="image" src="https://github.com/user-attachments/assets/23af8a31-11c4-4b06-92f3-521b2057cd52" />
 <img width="1280" height="665" alt="image" src="https://github.com/user-attachments/assets/aec98ab7-6687-4f2d-93a4-e8bc7637c2d0" />
 <img width="1280" height="658" alt="image" src="https://github.com/user-attachments/assets/95e0ef39-5f72-461c-9764-c3fad010eeb9" />
 <img width="1280" height="608" alt="image" src="https://github.com/user-attachments/assets/13344a31-9ac1-48a5-b162-fcfa8634a2f8" />
