@@ -125,6 +125,23 @@ image:-
 <img width="1280" height="608" alt="image" src="https://github.com/user-attachments/assets/13344a31-9ac1-48a5-b162-fcfa8634a2f8" />
 
 
+📁 File Structure
+
+| **File/Folder**                    | **Type**      | **Description**                                                          |
+| ---------------------------------- | ------------- | ------------------------------------------------------------------------ |
+| `index.html`                       | HTML Page     | Login page with form validation and password toggle                      |
+| `signup.html`                      | HTML Page     | User registration form with email/password fields and checkbox agreement |
+| `landingpage.html`                 | HTML Page     | Home or welcome page (post-login or public landing)                      |
+| `listitem.html`                    | HTML Page     | Interface for users to list their clothing items                         |
+| `dashboard.html` *(optional)*      | HTML Page     | User dashboard showing stats, points, swaps, and quick actions           |
+| `profile.html` *(optional)*        | HTML Page     | User profile page with tabs: Overview, My Items, Reviews, Settings       |
+| `assets/`                          | Folder        | Contains external JS or CSS files (e.g., form scripts, helpers)          |
+| `styles/`                          | Folder        | Holds custom Tailwind-inspired or global CSS styles                      |
+| `images/`                          | Folder        | Static assets like logo, profile icons, and item photos                  |
+| `README.md`                        | Markdown File | Full documentation of the project, features, setup, and usage            |
+| `ReWear_Project_Documentation.pdf` | PDF File      | Exported formatted version of README for submissions or offline sharing  |
+
+
  Clean and Eco-Friendly Design:
 Minimalist layout with green tones that align with the sustainable fashion theme, making the interface visually appealing and purposeful.
 
