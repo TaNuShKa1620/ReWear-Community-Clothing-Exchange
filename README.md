@@ -25,7 +25,7 @@ File Structure
 ├── landingpage.html      # Main landing/home page
 ├── listitem.html         # Page for users to list their clothing items
 ├── browser.html          # Page to browse and filter listed clothing items
-├── assets/               # External JS, CSS files (from Lovable/Vite)
+├── assets/               # External JS, CSS files 
 ├── styles/               # (Optional) Custom CSS stylesheets
 ├── images/               # Hosted or CDN image assets
 └── README.md             # Project documentation (this file)
@@ -93,6 +93,36 @@ Emphasis on clothing images with like/views count and interactive buttons.
 
 ♻️ Eco-Friendly Theming
 Gradient and green-toned design language that reflects the sustainable fashion mission.
+Auth System
+Register/Login with email & password (hashed)
+
+JWT tokens for session management
+
+Role-based access (user / admin)
+
+👤 User Profile
+/profile route returns current user info
+
+User data stored in users MongoDB collection
+
+👕 Item Management
+Add items: /add-item
+
+Browse items: /browse
+
+View/Update/Delete by ID: /item/<id>
+
+Ownership checks for updates/deletes
+
+🔒 JWT Protection
+Authenticated routes secured with JWT
+
+Admin-only access checked via role in token
+
+👮 Admin Panel
+List all users: /admin/users
+
+Delete user: /admin/users/<id>
   
  Technology Stack 
  
@@ -141,21 +171,7 @@ image:-
 | `README.md`                        | Markdown File | Full documentation of the project, features, setup, and usage            |
 | `ReWear_Project_Documentation.pdf` | PDF File      | Exported formatted version of README for submissions or offline sharing  |
 
-
- Clean and Eco-Friendly Design:
-Minimalist layout with green tones that align with the sustainable fashion theme, making the interface visually appealing and purposeful.
-
-User-Friendly Form Fields:
-Clearly labeled inputs for full name, email, password, and password confirmation with helpful placeholders and a password visibility toggle.
-
-Terms & Privacy Compliance:
-Includes a mandatory checkbox for agreeing to the Terms of Service and Privacy Policy, ensuring user consent before account creation.
-
-Call-to-Action with Visual Emphasis:
-A prominent "Create Account" button with a soft green gradient encourages user interaction and aligns with the app’s eco-conscious branding.
-
-
-
+**ReWear** is a community clothing exchange platform where users can list, browse, and swap unused clothes through direct exchanges or a point-based system. It promotes sustainable fashion by reducing textile waste and encouraging reuse. Users can manage profiles, add items, and request swaps, while admins oversee content and user activity.
 
 Tanushka Tomar-tanushkat2005@gmail.com
 Mahek Gupta-eshueshu22gupta@gmail.com
