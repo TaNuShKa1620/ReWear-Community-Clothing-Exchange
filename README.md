@@ -14,14 +14,14 @@ Alert Feedback: Displays success or error messages using alerts (replacing toast
 File Structure
 
 
-├── index.html           # Login page (structure, styles, and JavaScript)
-├── signup.html          # Signup/registration page
-├── landingpage.html     # Main landing page (community clothing exchange)
-├── assets/              # Linked external assets (JS, CSS via Lovable)
-├── styles/              # Custom or external CSS files
-├── images/              # CDN-hosted preview images
-└── README.md            # Project documentation
-
+├── index.html # Login page
+├── signup.html # User registration page
+├── landingpage.html # Main landing/home page
+├── listitem.html # Page for users to list their clothing items
+├── assets/ # External JS, CSS files linked via Lovable or Vite
+├── styles/ # (Optional) Custom styles folder
+├── images/ # Hosted or CDN image assets
+└── README.md # Project documentation (this file)
 
 Setup Instructions
 
