@@ -51,12 +51,42 @@ Links: Update placeholder URLs (/dashboard, /register, #) to point to actual rou
 
  Key Features
 
-- 🌱 **Eco-Friendly Swaps** – Exchange pre-loved clothes easily
-- 🎯 **Point-Based System** – Earn points for items and redeem fashion pieces
-- 👥 **Community Powered** – Built for fashion-conscious users
-- 📱 **Responsive UI** – Smooth layout across all devices
-- 🔐 **Login & Register** – Secure user management
-- 📦 **Featured Items** – Curated collection from the community
+✨ 12 Key Features of ReWear
+🌐 Responsive User Interface
+Fully responsive layout that adapts to desktops, tablets, and mobile screens using modern CSS.
+
+🔐 Secure Login & Registration
+Clean, form-validated login and signup pages with password visibility toggles and alerts.
+
+📦 Clothing Item Listing
+Users can add images, descriptions, and tags for clothing they want to offer for swap.
+
+🔁 Point-Based Swapping System
+Every listed item earns points; users redeem items using these points to ensure fairness.
+
+📊 Personalized User Dashboard
+Displays user stats: points earned, items listed, swaps completed, and membership details.
+
+🏅 Achievement Badges
+Gamified badge system based on user activity (e.g., verified member, top swapper).
+
+🧾 Item Status Tracking
+Tracks whether a listing is active, pending, swapped, or under review.
+
+👤 Profile Management
+Each user has a profile with bio, rating, join date, and badge overview.
+
+🗂 Tab-Based Navigation
+Smooth transitions between Dashboard, My Items, Reviews, and Settings.
+
+🧠 Community Reviews & Ratings
+Users can view and give reviews to maintain trust and build credibility.
+
+📷 Visual-First Listing Design
+Emphasis on clothing images with like/views count and interactive buttons.
+
+♻️ Eco-Friendly Theming
+Gradient and green-toned design language that reflects the sustainable fashion mission.
   
  Technology Stack 
  
