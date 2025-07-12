@@ -72,6 +72,8 @@ image:-
 ![WhatsApp Image 2025-07-12 at 15 46 27_05bf5662](https://github.com/user-attachments/assets/f31dc86f-70a5-43e7-bd87-7d7dbbc64dd5)
 <img width="1280" height="665" alt="image" src="https://github.com/user-attachments/assets/aec98ab7-6687-4f2d-93a4-e8bc7637c2d0" />
 <img width="1280" height="658" alt="image" src="https://github.com/user-attachments/assets/95e0ef39-5f72-461c-9764-c3fad010eeb9" />
+<img width="1280" height="608" alt="image" src="https://github.com/user-attachments/assets/13344a31-9ac1-48a5-b162-fcfa8634a2f8" />
+
 
  Clean and Eco-Friendly Design:
 Minimalist layout with green tones that align with the sustainable fashion theme, making the interface visually appealing and purposeful.
