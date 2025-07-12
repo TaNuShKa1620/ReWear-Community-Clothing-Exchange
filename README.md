@@ -134,11 +134,6 @@ A prominent "Create Account" button with a soft green gradient encourages user i
 
 
 
-
-
-
-
-
 Tanushka Tomar-tanushkat2005@gmail.com
 Mahek Gupta-eshueshu22gupta@gmail.com
 Satya Mishra-satyamishra0611@gmail.com
