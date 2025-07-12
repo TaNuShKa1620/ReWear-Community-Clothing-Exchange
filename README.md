@@ -13,12 +13,15 @@ Alert Feedback: Displays success or error messages using alerts (replacing toast
 
 File Structure
 
-index.html: The main HTML file containing the login page structure, styles, and JavaScript logic.
-├── landingpage.html # Main frontend HTML page
-├── assets/ # (linked externally via Lovable)
-├── styles/ # CSS via external links
-├── images/ # CDN-hosted preview images
-└── README.md # You're here!
+
+├── index.html           # Login page (structure, styles, and JavaScript)
+├── signup.html          # Signup/registration page
+├── landingpage.html     # Main landing page (community clothing exchange)
+├── assets/              # Linked external assets (JS, CSS via Lovable)
+├── styles/              # Custom or external CSS files
+├── images/              # CDN-hosted preview images
+└── README.md            # Project documentation
+
 
 Setup Instructions
 
@@ -63,6 +66,14 @@ The design is optimized for modern browsers (Chrome, Firefox, Safari, Edge).
 image:-
 ![WhatsApp Image 2025-07-12 at 14 16 04_7e807b09](https://github.com/user-attachments/assets/a62270aa-1323-4d89-8a7b-81d0082dc508)
 <img width="995" height="934" alt="image" src="https://github.com/user-attachments/assets/b45dd1ff-d91a-4a3a-aab2-542c4fafe769" />
+![WhatsApp Image 2025-07-12 at 15 40 47_ad72dd39](https://github.com/user-attachments/assets/e6e16f90-044e-444c-aaa6-47e9044f9d30)
+![WhatsApp Image 2025-07-12 at 15 42 17_f9cf8bc7](https://github.com/user-attachments/assets/34460919-5eea-40fa-8428-4ae214fbb378)
+![WhatsApp Image 2025-07-12 at 15 43 08_0be464bc](https://github.com/user-attachments/assets/de8b087b-e710-4356-b9ad-705483ad854a)
+![WhatsApp Image 2025-07-12 at 15 46 27_05bf5662](https://github.com/user-attachments/assets/f31dc86f-70a5-43e7-bd87-7d7dbbc64dd5)
+
+
+
+
 
  Clean and Eco-Friendly Design:
 Minimalist layout with green tones that align with the sustainable fashion theme, making the interface visually appealing and purposeful.
