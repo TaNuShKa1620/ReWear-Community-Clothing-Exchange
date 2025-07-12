@@ -129,7 +129,7 @@ Delete user: /admin/users/<id>
 | **Category**      | **Technology**                         | **Purpose**                                                              |
 | ----------------- | -------------------------------------- | ------------------------------------------------------------------------ |
 | 🌐 Front-End      | HTML5, CSS3                            | Core structure and styling of the application                            |
-| 🎨 UI Styling     | Custom CSS (Tailwind-inspired)         | Responsive layouts, gradients, and glassmorphism design                  |
+| 🎨 UI Styling     | Custom CSS                            | Responsive layouts, gradients, and glassmorphism design                  |
 | ⚙️ Interactivity  | JavaScript (Vanilla)                   | Handles form validation, password toggle, and alert messages             |
 | 🧩 Icons          | Lucide Icons (via CDN)                 | Modern, lightweight icon set for UI clarity                              |                         | 📦 File Hosting   | GitHub Pages / Local browser           | Project runs directly in a browser with no backend needed                |
 | 🚀 Present Scope  | Backend API (Firebase, etc.)          | For authentication, data storage, and swap transactions *(future-ready)* |
